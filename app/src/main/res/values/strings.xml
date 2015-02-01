@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ab2015List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_list">CustomList</string>
+
+    <string-array name="strList">
+        <item>Eskişehir</item>
+        <item>Kocaeli</item>
+        <item>İstanbul</item>
+        <item>Bursa</item>
+    </string-array>
+
+
+
+</resources>
